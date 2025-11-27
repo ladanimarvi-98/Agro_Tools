@@ -37,6 +37,4 @@ This is a simple PHP-based Agriculture & Garden Tools Management System that all
 
 - User : View products, add to cart, checkout
 - Admin :	Add products to store, manage access
-Role	Functionality
-User	View products, add to cart, checkout
-Admin	Add products to store, manage access
+
